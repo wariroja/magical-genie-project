@@ -13,6 +13,8 @@ The Magical Genie Project is an interactive web challenge, inspired by Capture t
 5. **Cast the Spell:** Click the "Cast Spell" button to execute your code.
 6. **See the Result:** The correct code will reveal the secret and sparkles of success! ✨
 
+<img width="1191" alt="Screenshot 2023-08-16 at 13 49 42" src="https://github.com/wariroja/magical-genie-project/assets/40623643/03a3b058-1679-4191-8367-c3bb66f264c2">
+
 ## Key Features
 
 ### HTML 📝
